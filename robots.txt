@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://HyunWoo-Nick.github.io/al-folio/sitemap.xml
+Sitemap: https://HyunWoo-Nick.github.io/sitemap.xml
