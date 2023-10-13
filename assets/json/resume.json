@@ -1,12 +1,12 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Hyun-Woo (Nick) Kim",
+    "label": "ML Research Engineer",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "khw4613@gmail.com",
+    "phone": "-",
+    "url": "https://hyunwoo-nick.github.io/",
+    "summary": "-",
     "location": {
       "address": "2712 Broadway St",
       "postalCode": "CA 94115",
@@ -24,38 +24,61 @@
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
+      "name": "Medipixel Inc.",
+      "position": "ML Team Lead",
+      "url": "https://medipixel.io",
+      "startDate": "2021-01-04",
+      "endDate": "",
+      "summary": "Research and Development ML models and algorithms for products",
       "highlights": [
-        "Relativity"
+        "Coronary Angiography",
+        "SaMD",
+        "Segmentation",
+        "Detection",
+        "Correspondence",
+        "Frame Recommentation"
       ]
     }
   ],
   "volunteer": [],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
+      "institution": "Chung-Ang University, Seoul, Republic of Korea",
+      "url": "",
+      "area": "Digital Imaging",
+      "studyType": "Master's Degree",
+      "startDate": "2019-03",
+      "endDate": "2021-02",
       "score": "",
       "courses": [
-        "Theory of Relativity"
+        "Computer Vision, Deep Learning"
       ]
     }
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "title": "1st place in the final stenosis phase of ARCADE challenge.",
+      "date": "2023-10",
+      "awarder": "MICCAI 2023, Research Institute of Cardiology and Internal Diseases, CMC Technologies",
+      "summary": "Automatic Region-based Coronary Artery Disease diagnostics using x-ray angiography imagEs (ARCADE) was held at MICCAI 2023 (Vancoubor)."
+    },
+    {
+      "title": "2nd place in the final segmentation phase of ARCADE challenge.",
+      "date": "2023-10",
+      "awarder": "MICCAI 2023, Research Institute of Cardiology and Internal Diseases, CMC Technologies",
+      "summary": "Automatic Region-based Coronary Artery Disease diagnostics using x-ray angiography imagEs (ARCADE) was held at MICCAI 2023 (Vancoubor)."
+    },
+    {
+      "title": "ICCE 2020 Best Poster Video Award, TPC selection, 2nd place",
+      "date": "2020-01",
+      "awarder": "IEEE",
+      "summary": "Pre-Activated 3D CNN and Feature Pyramid Network for Traffic Accident Detection"
+    },
+    {
+      "title": "대한전자공학회 하계학술대회 네이버 논문상",
+      "date": "2019-07",
+      "awarder": "IEIE, NAVER",
+      "summary": "지능형 도로 관제를 위한 3차원 컨볼루션 신경망 기반 교통사고 검출 방법"
     }
   ],
   "certificates": [],
@@ -63,13 +86,16 @@
   "skills": [],
   "languages": [
     {
-      "language": "German",
+      "language": "Korean",
       "fluency": "Native speaker"
     },
     {
       "language": "English",
       "fluency": "Fluent"
     }
+  ],
+  "patents": [
+    {}
   ],
   "interests": [],
   "references": [],
