@@ -95,7 +95,94 @@
     }
   ],
   "patents": [
-    {}
+    {
+      "title": "3차원 혈관 구조를 생성하는 방법 및 장치",
+      "status": "pub",
+      "date": "2023-06-08",
+      "status_comment": "status should be 'app' for application or 'pub' for published",
+      "application_number": "",
+      "patent_number": "KR 10-2542972"
+    },
+    {
+      "title": "심혈관 이미지의 3차원 재구성을 위한 CIP 자동 검출 방법 및 시스템",
+      "status": "pub",
+      "date": "2023-02-22",
+      "status_comment": "status should be 'app' for application or 'pub' for published",
+      "application_number": "",
+      "patent_number": "KR 10-2503882"
+    },
+    {
+      "title": "심혈관 병변 탐지를 위한 심혈관 조영 영상 처리 방법 및 시스템",
+      "status": "pub",
+      "date": "2022-10-07",
+      "status_comment": "status should be 'app' for application or 'pub' for published",
+      "application_number": "",
+      "patent_number": "KR 10-2454116"
+    },
+    {
+      "title": "딥러닝 기반 연기 및 화재 검출 방법 및 그 장치",
+      "status": "pub",
+      "date": "2022-08-23",
+      "status_comment": "status should be 'app' for application or 'pub' for published",
+      "application_number": "",
+      "patent_number": "KR 10-2436752"
+    },
+    {
+      "title": "혈관 영역 추출 방법 및 시스템",
+      "status": "app",
+      "date": "2023-07-25",
+      "status_comment": "status should be 'app' for application or 'pub' for published",
+      "application_number": "KR 10-2023-0096699",
+      "patent_number": ""
+    },
+    {
+      "title": "심혈관 이미지의 3차원 재구성을 위한 CIP 자동 검출 방법 및 시스템",
+      "status": "app",
+      "date": "2023-05-16",
+      "status_comment": "status should be 'app' for application or 'pub' for published",
+      "application_number": "PCT/KR2023/006641",
+      "patent_number": ""
+    },
+    {
+      "title": "METHOD AND SYSTEM FOR PROCESSING CARDIOVASCULAR IMAGE FOR DECTION OF CARDIOVASCULAR LEGIONS",
+      "status": "app",
+      "date": "2023-05-11",
+      "status_comment": "status should be 'app' for application or 'pub' for published",
+      "application_number": "US 18/196,286",
+      "patent_number": ""
+    },
+    {
+      "title": "의료 영상에 기초한 혈류 속도 산출 방법 및 시스템",
+      "status": "app",
+      "date": "2023-02-24",
+      "status_comment": "status should be 'app' for application or 'pub' for published",
+      "application_number": "KR 10-2023-0096699",
+      "patent_number": "KR 10-2023-0025426"
+    },
+    {
+      "title": "피처 벡터에 기반한 CIP 자동 매칭 방법 및 시스템",
+      "status": "app",
+      "date": "2023-02-21",
+      "status_comment": "status should be 'app' for application or 'pub' for published",
+      "application_number": "KR 10-2023-0023226",
+      "patent_number": ""
+    },
+    {
+      "title": "디퓨전 모델을 이용한 CIP 매칭 쌍 결정 방법 및 시스템",
+      "status": "app",
+      "date": "2023-02-21",
+      "status_comment": "status should be 'app' for application or 'pub' for published",
+      "application_number": "KR 10-2023-0023227",
+      "patent_number": ""
+    },
+    {
+      "title": "혈관 영역 추출 방법 및 시스템",
+      "status": "app",
+      "date": "2023-02-21",
+      "status_comment": "status should be 'app' for application or 'pub' for published",
+      "application_number": "10-2023-0023225",
+      "patent_number": ""
+    }
   ],
   "interests": [],
   "references": [],
